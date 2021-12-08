@@ -1,11 +1,11 @@
 /.checkstack
 /.checkstack.ver
-/.cvc4.ver
+/.cvc*.ver
 /.compcert.ver
 /.opam
 /.sireum.exe
 /clion
-/cvc4.exe
+/cvc*.exe
 /fmide
 /graal
 /idea
