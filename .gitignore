@@ -1,7 +1,5 @@
 /.checkstack
-/.checkstack.ver
-/.cvc*.ver
-/.compcert.ver
+/.*.ver
 /.opam
 /.sireum.exe
 /clion
