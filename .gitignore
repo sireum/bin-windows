@@ -11,6 +11,7 @@
 /isabelle
 /java
 /opam
+/osate
 /sireum.exe
 /z3
 *.cmd.jar
