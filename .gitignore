@@ -12,6 +12,7 @@
 /java
 /opam
 /osate
+/rust
 /sireum.exe
 /z3
 *.cmd.jar
